@@ -12,7 +12,7 @@
 ・結果　　
   ・青ボール:LED1つ点灯(4秒点灯)  
   ・黄ボール:LED2つ点灯(4秒点灯)  
-  ・赤ボール:LED3つ点灯(4秒点灯)  
+  ・赤ボール:LED3つ点灯(4秒点灯)　　
   
 # License
 ・This repository is lisensed under the BSD-3-Clause License, see LICENSE.
