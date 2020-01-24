@@ -8,6 +8,8 @@
   4. PC側でカメラの色情報をArduino側にpublishするlaunchファイル:usb_cam_raspi.launchを実行  
   5. カメラに使用権限を与える "sudo chmod 777 /dev/ttyUSB0"を実行  
   6. ArduinoのSubscribeするプログラムを実行"rosrun rosserial_python serial_node.py_port:=/dev/ttyUSB0"  
+  
+  
 ・結果  
   青ボール:LED1つ点灯(4秒点灯)  
   黄ボール:LED2つ点灯(4秒点灯)  
