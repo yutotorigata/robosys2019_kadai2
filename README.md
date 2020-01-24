@@ -1,7 +1,7 @@
 # ロボットシステム学2019課題2
 ・Raspberry Piに接続したカメラから撮影したボールの色に応じて,Arduinoに接続したLEDを点灯させるプログラムを作成  
 ・カメラに近い方のボールの色を認識  
-・手順  
+・手順　　
   1. Raspberry PiとPCをSSHしてroscoreを起動  
   2. Raspberry piのマスタ権限:ROS_MASTER_URIをPC側にexport  
   3. Raspberry Pi側でカメラ用のlaunchファイル:raspi_usb.launchを実行  
